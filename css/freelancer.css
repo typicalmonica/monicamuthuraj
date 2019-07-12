@@ -31,6 +31,19 @@ h6 {
   font-weight: 700;
 }
 
+.column{
+	float: left;
+	padding: 10px;
+}
+
+.left, .right{
+	width: 25%
+}
+
+.middle{
+	width:50%
+}
+
 a.email  {
 	color: white;
 	text-decoration: underline;
