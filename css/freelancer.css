@@ -5,7 +5,13 @@
 FF69AC
  */
 body {
-  overflow-x: hidden;
+	margin: 0;
+    font-size: 14px;
+    font-family: 'Karla', sans-serif;
+    line-height: 20px;
+    color: #333333;
+    background-color: #ffffff;
+    -webkit-font-smoothing: antialiased;
 }
 p {
   font-size: 20px;
