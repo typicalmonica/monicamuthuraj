@@ -36,8 +36,13 @@ h6 {
 	padding: 10px;
 }
 
-.left, .right{
+.left{
 	width: 25%
+}
+
+.right {
+	width: 25%
+  float: right;
 }
 
 .middle{
