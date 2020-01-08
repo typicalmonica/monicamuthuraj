@@ -24,7 +24,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #9e5a63;
+  color: #E87971;
 }
 h1,
 h2,
@@ -60,16 +60,16 @@ a.email  {
 	text-decoration: underline;
 }
 a.email:hover, a.email:active  {
-	color: #324A5E;
+	color: #243755;
 	text-decoration: underline;
 }
 
 a.email.inverse  {
-	color: #324A5E;
+	color: #243755;
 	text-decoration: underline;
 }
 a.email.inverse:hover, a.email.inverse:active  {
-	color: #FB827A;
+	color: #E87971;
 	text-decoration: underline;
 }
 
@@ -101,7 +101,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #FB827A;
+  background-color: #E87971;
   color: white;
 }
 hr.star-primary {
@@ -120,7 +120,7 @@ hr {
 }
 header {
   text-align: center;
-  background: #FB827A;
+  background: #E87971;
   color: white;
 }
 header .container {
@@ -155,7 +155,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #2C313C;
+  background: #243755;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -178,7 +178,7 @@ margin-right: 20px;
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #FB827A;
+  color: #E87971;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -186,13 +186,13 @@ margin-right: 20px;
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #FB827A;
+  background: #E87971;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #FB827A;
+  background: #E87971;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -202,9 +202,9 @@ margin-right: 20px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #FB827A;
+  background-color: #E87971;
   color: white;
-  border-color: #FB827A;
+  border-color: #E87971;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -252,7 +252,7 @@ section.success {
 }
 
 #faq {
-	background: #FB827A;
+	background: #E87971;
 	color: #FFFFFF;
 }
 
@@ -353,7 +353,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #FB827A;
+  color: #E87971;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -373,7 +373,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: #243755;
 }
 .btn-outline {
   color: white;
@@ -393,7 +393,7 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #324A5E;
+  background-color: #243755;
   border-color: #243755;
   font-weight: 700;
 	margin-top: 15px;
@@ -404,8 +404,8 @@ footer .footer-below {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #1a242f;
-  border-color: #161f29;
+  background-color: #243755;
+  border-color: #243755;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -436,8 +436,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #FB827A;
-  border-color: #f5bcbc;
+  background-color: #E87971;
+  border-color: #E87971;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -469,11 +469,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #FB827A;
-  border-color: #FB827A;
+  background-color: #E87971;
+  border-color: #E87971;
 }
 .btn-success .badge {
-  color: #FB827A;
+  color: #E87971;
   background-color: white;
 }
 .btn-social {
@@ -577,7 +577,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #FB827A;
+  background: #E87971;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
